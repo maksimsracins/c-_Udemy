@@ -4,7 +4,7 @@ using System.Text;
 class Program {
     static void Main(string[] args)
     {
-
+        Console.WriteLine("Writeline");
     }
     static void Homework5()
     {
